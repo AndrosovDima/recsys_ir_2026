@@ -8,3 +8,5 @@ Recommender Systems & Information Retrieval course for AI Masters 2026.
 
 [week_02](./materials/week_02): Introduction to Information Retrieval, text processing, inverted index and boolean retrieval methods.
 
+[week_03](./materials/week_03): Ranked retrieval, TF-IDF, BM25, search quality measuring.
+
