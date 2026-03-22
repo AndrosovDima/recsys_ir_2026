@@ -10,6 +10,13 @@ Recommender Systems & Information Retrieval course for AI Masters 2026.
 
 [week_03](./materials/week_03): Ranked retrieval, TF-IDF, BM25, search quality measuring.
 
+[week_04](./materials/week_04): Collaborative filtering.
+
+[week_05](./materials/week_05): Content based recsys.
+
+[week_06](./materials/week_06): LTR, multilevel systems.
+
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
