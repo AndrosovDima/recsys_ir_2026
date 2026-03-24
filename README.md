@@ -16,6 +16,8 @@ Recommender Systems & Information Retrieval course for AI Masters 2026.
 
 [week_06](./materials/week_06): LTR, multilevel systems.
 
+[week_07](./materials/week_07): Neural networks for Information Retrieval
+
 
 ## Homeworks
 
