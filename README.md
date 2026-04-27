@@ -18,6 +18,11 @@ Recommender Systems & Information Retrieval course for AI Masters 2026.
 
 [week_07](./materials/week_07): Neural networks for Information Retrieval
 
+[week_08](./materials/week_08): Challenges recsys
+
+[week_09](./materials/week_09): Sequential recsys
+
+[week_10](./materials/week_10): Generative recsys
 
 ## Homeworks
 
