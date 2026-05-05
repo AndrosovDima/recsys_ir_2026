@@ -24,6 +24,8 @@ Recommender Systems & Information Retrieval course for AI Masters 2026.
 
 [week_10](./materials/week_10): Generative recsys
 
+[week_12](./materials/week_12): RAG and Agents for Information Retrieval
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
